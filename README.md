@@ -11,58 +11,42 @@ HTML • CSS • JavaScript • Bootstrap • React • Node.js • Python • A
 - GitHub: https://github.com/matteopeixotooo
 -->
 
-```python
-import random
+## 🎮 Skill RPG Card
 
-rock = '''
-    _______
----'   ____)
-      (_____)
-      (_____)
-      (____)
----.__(___)
-'''
+<svg width="500" height="220" xmlns="http://www.w3.org/2000/svg">
 
-paper = '''
-    _______
----'   ____)____
-          ______)
-          _______)
-         _______)
----.__________)
-'''
+<style>
+  .bar { fill:#1f6feb; }
+  .text { fill:white; font-size:14px; font-family:monospace; }
+  .title { font-size:20px; font-weight:bold; }
+  .hp { animation: grow 2s forwards; }
+  @keyframes grow { from { width:0; } to { width: var(--w); } }
+</style>
 
-scissors = '''
-    _______
----'   ____)____
-          ______)
-       __________)
-      (____)
----.__(___)
-'''
+<rect width="500" height="220" rx="15" fill="#0d1117"/>
 
-game = [rock, paper, scissors]
+<text x="20" y="30" class="text title">🧙 Matteo - Web & Data Dev</text>
 
-# User choice
-choice = int(input("Escolha 0 para PEDRA, 1 para PAPEL e 2 para TESOURA: "))
-if choice < 0 or choice > 2:
-    print("Você colocou um valor invalido")
+<!-- HTML -->
+<text x="20" y="70" class="text">HTML</text>
+<rect x="120" y="55" height="15" width="300" fill="#30363d"/>
+<rect x="120" y="55" height="15" class="bar hp" style="--w:260px"/>
 
+<!-- CSS -->
+<text x="20" y="100" class="text">CSS</text>
+<rect x="120" y="85" height="15" width="300" fill="#30363d"/>
+<rect x="120" y="85" height="15" class="bar hp" style="--w:240px"/>
 
-else:
-    print("Sua escolha: ")
-    print(game[choice])
+<!-- JS -->
+<text x="20" y="130" class="text">JavaScript</text>
+<rect x="120" y="115" height="15" width="300" fill="#30363d"/>
+<rect x="120" y="115" height="15" class="bar hp" style="--w:220px"/>
 
-    # Random choice
-    bot = random.randint(0, 2)
-    print("Escolha do computador: ")
-    print(game[bot])
+<!-- Python -->
+<text x="20" y="160" class="text">Python</text>
+<rect x="120" y="145" height="15" width="300" fill="#30363d"/>
+<rect x="120" y="145" height="15" class="bar hp" style="--w:200px"/>
 
-    # Conditions
-    if (choice == 0 and bot == 0) or (choice == 1 and bot == 1) or (choice == 2 and bot == 2):
-        print("Empate")
-    if (choice == 0 and bot == 1) or (choice == 1 and bot == 2) or (choice == 2 and bot == 0):
-        print("VOCÊ PERDEU!")
-    if (choice == 0 and bot == 2) or (choice == 1 and bot == 0) or (choice == 2 and bot == 1):
-        print("VOCÊ VENCEU!")
-```
+<text x="20" y="200" class="text">⚔️ EXP: Electrical Engineering Student</text>
+
+</svg>
