@@ -2,7 +2,7 @@
 
 ## _`Web Developer & Python Data Analyst`_
 
-Me chamo Matteo Peixoto, tenho 26 anos e resido no Rio Grande do Norte. Sou estudante de Engenharia Elétrica pela UFRN e técnico em Eletrotécnica pelo IFRN. Tenho interesse em desenvolvimento web e análise de dados, utilizando HTML, CSS, JavaScript e Python. Já atuei com projetos elétricos, energia fotovoltaica e SPDA, além de análise técnica e organização de processos. Descobri que sou apaixonado por tecnologia e, atualmente, foco meu estudo em construções de projetos para consolidar minha carreira na área de engenharia e software.
+Me chamo Matteo Peixoto, tenho 26 anos e resido no Rio Grande do Norte. Sou estudante de Engenharia Elétrica pela UFRN e técnico em Eletrotécnica pelo IFRN. Estudo constantemente desenvolvimento web e análise de dados, visando sempre aprender uma nova tecnologia. Já atuei com projetos elétricos, energia fotovoltaica e SPDA, além de análise técnica e organização de processos. Descobri que sou apaixonado por tecnologia e, atualmente, foco meu estudo em construções de projetos para consolidar minha carreira na área de engenharia e software.
 
 <p align="left">
     <a href="https://github.com/matteopeixotooo">
