@@ -1,5 +1,6 @@
 ## Matteo Peixoto | Web Developer & Python Data Analyst
 
+<!--
 Hi! I'm Matteo, an Electrical Engineering student passionate about technology, programming, and problem-solving.  
 Currently, I'm focused on **web development and data analysis**, building projects with modern tools and best practices.  
 I like understanding how systems work under the hood and turning ideas into real applications.
@@ -11,42 +12,22 @@ HTML • CSS • JavaScript • Bootstrap • React • Node.js • Python • A
 - GitHub: https://github.com/matteopeixotooo
 -->
 
-## 🎮 Skill RPG Card
-
-<svg width="500" height="220" xmlns="http://www.w3.org/2000/svg">
-
+<svg width="500" height="120" xmlns="http://www.w3.org/2000/svg">
 <style>
-  .bar { fill:#1f6feb; }
-  .text { fill:white; font-size:14px; font-family:monospace; }
-  .title { font-size:20px; font-weight:bold; }
-  .hp { animation: grow 2s forwards; }
-  @keyframes grow { from { width:0; } to { width: var(--w); } }
+.skill:hover { fill:#58a6ff; }
+text { fill:white; font-family:monospace; }
 </style>
 
-<rect width="500" height="220" rx="15" fill="#0d1117"/>
+<rect width="500" height="120" rx="15" fill="#0d1117"/>
 
-<text x="20" y="30" class="text title">🧙 Matteo - Web & Data Dev</text>
+<text x="20" y="30">🎮 Hover Skills</text>
 
-<!-- HTML -->
-<text x="20" y="70" class="text">HTML</text>
-<rect x="120" y="55" height="15" width="300" fill="#30363d"/>
-<rect x="120" y="55" height="15" class="bar hp" style="--w:260px"/>
+<rect class="skill" x="20" y="50" width="120" height="25" fill="#1f6feb"/>
+<text x="35" y="67">HTML</text>
 
-<!-- CSS -->
-<text x="20" y="100" class="text">CSS</text>
-<rect x="120" y="85" height="15" width="300" fill="#30363d"/>
-<rect x="120" y="85" height="15" class="bar hp" style="--w:240px"/>
+<rect class="skill" x="160" y="50" width="120" height="25" fill="#1f6feb"/>
+<text x="175" y="67">CSS</text>
 
-<!-- JS -->
-<text x="20" y="130" class="text">JavaScript</text>
-<rect x="120" y="115" height="15" width="300" fill="#30363d"/>
-<rect x="120" y="115" height="15" class="bar hp" style="--w:220px"/>
-
-<!-- Python -->
-<text x="20" y="160" class="text">Python</text>
-<rect x="120" y="145" height="15" width="300" fill="#30363d"/>
-<rect x="120" y="145" height="15" class="bar hp" style="--w:200px"/>
-
-<text x="20" y="200" class="text">⚔️ EXP: Electrical Engineering Student</text>
-
+<rect class="skill" x="300" y="50" width="120" height="25" fill="#1f6feb"/>
+<text x="310" y="67">Python</text>
 </svg>
