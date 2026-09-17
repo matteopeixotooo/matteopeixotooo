@@ -160,7 +160,7 @@ My name's Matteo Peixoto, Iâ€™m 26 years old and live in Rio Grande do Norte. Iâ
     title="Docker" 
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" 
+    src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/docker.svg" 
 />
 
 <img 
@@ -178,7 +178,7 @@ My name's Matteo Peixoto, Iâ€™m 26 years old and live in Rio Grande do Norte. Iâ
     title="Grafana" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" 
+    src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/grafana.svg" 
 />
 
 <img 
@@ -187,7 +187,7 @@ My name's Matteo Peixoto, Iâ€™m 26 years old and live in Rio Grande do Norte. Iâ
     title="Prometheus" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" 
+    src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prometheus.svg" 
 />
 
 <img 
