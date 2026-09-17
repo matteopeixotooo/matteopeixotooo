@@ -196,7 +196,7 @@ My name's Matteo Peixoto, Iâ€™m 26 years old and live in Rio Grande do Norte. Iâ
     title="MySQL" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" 
+    src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mysql.png" 
 />
 
 <img 
