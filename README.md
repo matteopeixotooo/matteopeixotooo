@@ -186,7 +186,7 @@ My name's Matteo Peixoto, Iâ€™m 26 years old and live in Rio Grande do Norte. Iâ
     alt="Zabbix"
     title="Zabbix" 
     width="40px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; border-radius: 5px;" 
     src="https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png"
 />
 
