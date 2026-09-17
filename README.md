@@ -181,6 +181,18 @@ Me chamo Matteo Peixoto, tenho 26 anos e resido no Rio Grande do Norte. Sou estu
     src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" 
 />
 
+<img 
+    align="left" 
+    alt="Prometheus"
+    title="Prometheus" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fdocs.brevis.one%2Fcurrent%2Fen%2FContent%2FSupport%2520Information%2FFrequently%2520asked%2520Questions%2FConnecting%2520different%2520Services%2FCan%2520I%2520connect%2520-%2520Zabbix.htm&ved=0CBYQjRxqGAoTCOiX2fiw9pYDFQAAAAAdAAAAABCfAQ&opi=89978449" 
+/>
+
+
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png
 
 <br/>
 <br/>
