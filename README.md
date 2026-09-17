@@ -158,10 +158,21 @@ Me chamo Matteo Peixoto, tenho 26 anos e resido no Rio Grande do Norte. Sou estu
     align="left" 
     alt="Docker"
     title="Docker" 
-    width="100px" 
+    width="70px" 
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" 
 />
+
+<img 
+    align="left" 
+    alt="Grafana"
+    title="Grafana" 
+    width="70px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" 
+/>
+
+
 
 <br/>
 <br/>
