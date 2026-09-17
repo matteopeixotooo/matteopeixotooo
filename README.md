@@ -219,3 +219,35 @@ My name is Matteo Peixoto, I’m 26 years old and based in Rio Grande do Norte, 
 
 <br/>
 <br/>
+
+### ⚡ Engineering Tools
+
+<img 
+    align="left" 
+    alt="Revit"
+    title="Revit" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/autodeskrevit/186BFF" 
+/>
+
+<img 
+    align="left" 
+    alt="AutoCAD"
+    title="AutoCAD" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/autocad/E51050" 
+/>
+
+<img 
+    align="left" 
+    alt="SketchUP"
+    title="SketchUP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/sketchup/005F9E" 
+/>
+
+<br/>
+<br/>
