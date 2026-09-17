@@ -172,6 +172,14 @@ Me chamo Matteo Peixoto, tenho 26 anos e resido no Rio Grande do Norte. Sou estu
     src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" 
 />
 
+<img 
+    align="left" 
+    alt="Prometheus"
+    title="Prometheus" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" 
+/>
 
 
 <br/>
