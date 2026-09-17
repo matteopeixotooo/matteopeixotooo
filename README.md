@@ -149,6 +149,15 @@ My name's Matteo Peixoto, Iâ€™m 26 years old and live in Rio Grande do Norte. Iâ
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img
+    align="left"
+    alt="C++"
+    title="C++"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.simpleicons.org/cplusplus/00599C"
+/>
+
 <br/>
 <br/>
 
