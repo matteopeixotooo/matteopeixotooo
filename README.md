@@ -55,13 +55,14 @@ Me chamo Matteo Peixoto, tenho 26 anos e resido no Rio Grande do Norte. Sou estu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<!-- <img
+<img
     align="left"
     alt="TypeScript"
     title="TypeScript"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  -->
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
 
 <img 
     align="left" 
@@ -145,6 +146,15 @@ Me chamo Matteo Peixoto, tenho 26 anos e resido no Rio Grande do Norte. Sou estu
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"
 />
 
 <br/>
