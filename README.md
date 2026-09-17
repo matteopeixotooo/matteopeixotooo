@@ -187,7 +187,7 @@ Me chamo Matteo Peixoto, tenho 26 anos e resido no Rio Grande do Norte. Sou estu
     title="Prometheus" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="http://www.w3.org/2000/svg"
+    src="https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png"
 />
 
 
