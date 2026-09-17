@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Matteo Peixoto
 
-## _`Learning Python, Data Analysis & AI | Electrical Engineer | Web Developer `_
+## _`Data Analysis & AI | Electrical Engineer | Web Developer `_
 
 My name's Matteo Peixoto, I’m 26 years old and live in Rio Grande do Norte. I’m an electrical engineering student at UFRN and hold a technical degree in electrical engineering from IFRN. I’m constantly studying web development and data analysis, always aiming to learn new technologies. I have worked on electrical projects, photovoltaic energy, and SPDA, as well as technical analysis and process organization. I’ve discovered that I’m passionate about technology, and I’m currently focusing my studies on project development to build my career in engineering and software.
 
