@@ -154,7 +154,7 @@ Me chamo Matteo Peixoto, tenho 26 anos e resido no Rio Grande do Norte. Sou estu
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src='https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/docker.svg'
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"
 />
 
 <br/>
