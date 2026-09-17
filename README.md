@@ -267,6 +267,15 @@ My name is Matteo Peixoto, I’m 26 years old and based in Rio Grande do Norte, 
     src="https://cdn.simpleicons.org/proteus/1C79B3" 
 />
 
+<img 
+    align="left" 
+    alt="Helioscope"
+    title="Helioscope" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://helioscope.aurorasolar.com/wp-content/uploads/2022/11/cropped-favicon.png" 
+/>
+
 
 <br/>
 <br/>
