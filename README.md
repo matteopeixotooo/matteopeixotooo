@@ -158,7 +158,7 @@ Me chamo Matteo Peixoto, tenho 26 anos e resido no Rio Grande do Norte. Sou estu
     align="left" 
     alt="Docker"
     title="Docker" 
-    width="70px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" 
 />
@@ -167,7 +167,7 @@ Me chamo Matteo Peixoto, tenho 26 anos e resido no Rio Grande do Norte. Sou estu
     align="left" 
     alt="Grafana"
     title="Grafana" 
-    width="70px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" 
 />
