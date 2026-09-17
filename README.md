@@ -160,13 +160,13 @@ Me chamo Matteo Peixoto, tenho 26 anos e resido no Rio Grande do Norte. Sou estu
 <br/>
 <br/>
 
-### 🤖 Databases & DevOps
+### ⚙️ Databases & DevOps
 
 <img 
     align="left" 
     alt="Docker"
     title="Docker" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" 
 />
