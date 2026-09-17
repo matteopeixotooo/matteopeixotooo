@@ -158,7 +158,7 @@ My name's Matteo Peixoto, Iâ€™m 26 years old and live in Rio Grande do Norte. Iâ
     align="left" 
     alt="Docker"
     title="Docker" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/docker.svg" 
 />
@@ -167,7 +167,7 @@ My name's Matteo Peixoto, Iâ€™m 26 years old and live in Rio Grande do Norte. Iâ
     align="left" 
     alt="Zabbix"
     title="Zabbix" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px; border-radius: 10px;" 
     src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/zabbix.svg"
 />
@@ -176,7 +176,7 @@ My name's Matteo Peixoto, Iâ€™m 26 years old and live in Rio Grande do Norte. Iâ
     align="left" 
     alt="Grafana"
     title="Grafana" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/grafana.svg" 
 />
@@ -185,7 +185,7 @@ My name's Matteo Peixoto, Iâ€™m 26 years old and live in Rio Grande do Norte. Iâ
     align="left" 
     alt="Prometheus"
     title="Prometheus" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prometheus.svg" 
 />
@@ -194,7 +194,7 @@ My name's Matteo Peixoto, Iâ€™m 26 years old and live in Rio Grande do Norte. Iâ
     align="left" 
     alt="MySQL"
     title="MySQL" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mysql.png" 
 />
@@ -203,7 +203,7 @@ My name's Matteo Peixoto, Iâ€™m 26 years old and live in Rio Grande do Norte. Iâ
     align="left" 
     alt="MongoDB"
     title="MongoDB" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/mongodb.svg"
 />
