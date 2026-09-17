@@ -183,16 +183,30 @@ Me chamo Matteo Peixoto, tenho 26 anos e resido no Rio Grande do Norte. Sou estu
 
 <img 
     align="left" 
-    alt="Prometheus"
-    title="Prometheus" 
+    alt="Zabbix"
+    title="Zabbix" 
     width="40px" 
     style="padding-right: 10px;" 
     src="https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png"
 />
 
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" 
+/>
 
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png
+<img 
+    align="left" 
+    alt="MongoDB"
+    title="MongoDB" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"
+/>
 
 <br/>
 <br/>
