@@ -249,5 +249,24 @@ My name is Matteo Peixoto, I’m 26 years old and based in Rio Grande do Norte, 
     src="https://cdn.simpleicons.org/sketchup/005F9E" 
 />
 
+<img 
+    align="left" 
+    alt="LTSpice"
+    title="LTSpice" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/ltspice/900028" 
+/>
+
+<img 
+    align="left" 
+    alt="Proteus"
+    title="Proteus" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/proteus/1C79B3" 
+/>
+
+
 <br/>
 <br/>
