@@ -165,6 +165,15 @@ My name's Matteo Peixoto, Iâ€™m 26 years old and live in Rio Grande do Norte. Iâ
 
 <img 
     align="left" 
+    alt="Zabbix"
+    title="Zabbix" 
+    width="40px" 
+    style="padding-right: 10px; border-radius: 10px;" 
+    src="https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png"
+/>
+
+<img 
+    align="left" 
     alt="Grafana"
     title="Grafana" 
     width="40px" 
@@ -179,15 +188,6 @@ My name's Matteo Peixoto, Iâ€™m 26 years old and live in Rio Grande do Norte. Iâ
     width="40px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" 
-/>
-
-<img 
-    align="left" 
-    alt="Zabbix"
-    title="Zabbix" 
-    width="40px" 
-    style="padding-right: 10px; border-radius: 10px;" 
-    src="https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png"
 />
 
 <img 
